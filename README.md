@@ -1,7 +1,7 @@
 
 
 ## Hallo I'm Robi Septiandi
-![rOXE](image/ROXE2.gif)
+![rOXE](image/roxx.gif)
 
 I'm a **beginner programmer** who loves learning and exploring how coding can solve **real-world problems** and bring value to everyday life.
 
@@ -59,6 +59,9 @@ I'm a **beginner programmer** who loves learning and exploring how coding can so
 ![rOSE GitHub stats](https://github-readme-stats.vercel.app/api?username=R0sers&show_icons=true&theme=tokyonight)
 
 </p>
+
+
+
 
 
 
